@@ -1,19 +1,17 @@
 # Rocketpay
 
-To start your Phoenix server:
+API created during the NLW #04
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## Requirements
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+- Elixir
+- Phoenix
+- PostgreSQL
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
-## Learn more
+## License
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+This project is under the MIT license.
+
+---
+Feel free to contact me [@abnersajr](https://www.linkedin.com/in/abnersajr/)
