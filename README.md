@@ -31,6 +31,16 @@ Run the server:
 mix phx.server
 ```
 
+Check if the server is up using the [🔗Dashboard](http://localhost:4000/dashboard)
+
+## Tests
+
+Unit tests are inside the `test` folder and can be ran using the command:
+
+```bash
+mix test
+```
+
 ## License
 
 This project is under the MIT license.
